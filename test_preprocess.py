@@ -15,7 +15,7 @@ MONTH_ORDER_ID = [
 # -------------------- Fungsi Preprocessing --------------------
 @st.cache_data(show_spinner=True)
 def preprocess_raw(file):
-    df = pd.read_excel(file, header=None, dtype=object)
+    df = pd.read_excel(file, header=None, sheet_name="PERBUB 14", dtype=object)
 
     # Step sesuai preprocesing.py
     if df.shape[0] >= 5:
