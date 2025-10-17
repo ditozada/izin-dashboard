@@ -1,7 +1,7 @@
 ### ✅ File 1: README.md
 
 ```markdown
-# 📊 Dashboard Izin Multi-Kategori
+# 📊 Dashboard Izin Multi-Kategori Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu, Kab Sleman
 
 Dashboard interaktif berbasis **Streamlit** untuk menampilkan tren dan komposisi berbagai jenis izin per sektor, kategori, dan bulan.  
 Dilengkapi halaman admin untuk upload data Excel terbaru secara mudah.
